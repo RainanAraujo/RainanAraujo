@@ -1,4 +1,10 @@
-<h1>Hi 👋, I'm Rainan Carneiro Araújo</h1>
+<h3>Hi 👋, I'm Rainan Carneiro Araújo</h3>
+<p align="left">
+<a href="https://twitter.com/@rainan_araaujo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@rainan_araaujo" height="20" width="20" /></a>
+<a href="https://instagram.com/@rainanaraujo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@rainanaraujo" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/rainan-carneiro-araújo-8492061aa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rainan-carneiro-araújo-8492061aa" height="20" width="20" /></a>
+<a href="https://fb.com/rainancarneiro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rainancarneiro" height="20" width="20" /></a>
+</p>
 <p>I live in Maranhão - Brazil, 😄 I have experience with front-end development technologies, React js, React Native 🧑🏼‍💻 and interface development applying UX and UI rules ✍️.</p>
 
 - 🌱 I’m currently learning **Angular, Vue and Flutter**
@@ -7,10 +13,7 @@
 
 - 📫 How to reach me **rainanaraaujo@gmail.com**
 
-<p align="center">
-<a href="https://twitter.com/@rainan_araaujo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@rainan_araaujo" height="30" width="30" /></a>
-<a href="https://instagram.com/@rainanaraujo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@rainanaraujo" height="30" width="30" /></a>
-</p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainanaraujo&layout=compact&hide=html" alt="rainanaraujo" /></p>
 
 <h3>Languages and Tools:</h3>
