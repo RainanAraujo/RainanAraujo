@@ -19,11 +19,3 @@
 
 - 📫How to reach me **rainanaraaujo@gmail.com**
 
-
-### ⚙️ &nbsp;GitHub Analytics
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rainanaraujo&show_icons=true&hide=stars" alt="rainanaraujo" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rainanaraujo" alt="rainanaraujo" />
-</p>
-
-
