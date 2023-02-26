@@ -5,7 +5,7 @@
 <a href="https://linkedin.com/in/rainan-carneiro-araújo-8492061aa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rainan-carneiro-araújo-8492061aa" height="20" width="20" /></a>
 <a href="https://fb.com/rainancarneiro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rainancarneiro" height="20" width="20" /></a>
 </p>
-<p>I live in Maranhão - Brazil, 😄 I have experience with front-end development technologies, React js, React Native 🧑🏼‍💻 and interface development applying UX and UI rules ✍️.</p>
+<p>I live in Maranhão - Brazil, 😄 I have experience with front-end development technologies, React js, React Native, Flutter 🧑🏼‍💻 and interface development applying UX and UI rules ✍️.</p>
 
 - 🎓I'm currently studying Computer Science
 
@@ -13,7 +13,7 @@
 
 - ✍️In my free time, I pursue **Graphic Design**
 
-- 🌱I’m currently learning **Angular, Vue and Flutter**
+- 🌱I’m currently learning **Angular, Vue**
 
 - 💬Feel free to reach out to me for consultin.
 
